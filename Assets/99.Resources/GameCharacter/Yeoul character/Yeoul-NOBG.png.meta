@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 7983db1d0ae190542b828fb7c189f210
+guid: 6d99ef6f25889544b947788ec83f1833
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8122746112067652782
-    second: Yeoul_0
+      213: 491704664555150635
+    second: Yeoul-NOBG_0
+  - first:
+      213: -8933526822773428233
+    second: Yeoul-NOBG_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Yeoul_0
+      name: Yeoul-NOBG_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1408
-        height: 1536
+        width: 1143
+        height: 1309
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 253b58d7275364f80800000000000000
-      internalID: -8122746112067652782
+      spriteID: b2d563989c2e2d600800000000000000
+      internalID: 491704664555150635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeoul-NOBG_1
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 0
+        width: 898
+        height: 1309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff6a21cfacb50480800000000000000
+      internalID: -8933526822773428233
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 884703ed8243a104ba03f13d4d4aad7b
+    spriteID: b558cfd703502c6488a7e7cbda743baf
     internalID: 0
     vertices: []
     indices: 
@@ -146,11 +171,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Yeoul_0: -8122746112067652782
+      Yeoul-NOBG_0: 491704664555150635
+      Yeoul-NOBG_1: -8933526822773428233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
